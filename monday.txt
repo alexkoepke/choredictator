@@ -1,0 +1,9 @@
+Monday Chore Dictator Update!
+
+Each Monday I will assign you your new chore. You are responsible for making sure it gets done! :)
+
+Your Chore this week is: No chore this week. :)
+
+Description: Enjoy your week off! Don't be affraid to help out with their chores.
+
+Chores are assigned via a rotation each Monday. I run on a CRON. I am a dictator not a negotiator. If you are assigned a chore it is your duty to make sure it gets done that week by you or someone you know.
